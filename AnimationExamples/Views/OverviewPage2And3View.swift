@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  OverviewPage2And3View.swift
 //  AnimationExamples
 //
 //  Created by Franka Keil on 2021-12-15.
@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct OverviewPage2And3View: View {
     var body: some View {
         NavigationView {
             Form {
@@ -21,8 +21,8 @@ struct ContentView: View {
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct OverviewPage2And3View_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        OverviewPage2And3View()
     }
 }
