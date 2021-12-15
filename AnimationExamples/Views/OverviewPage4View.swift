@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct OverviewPage3View: View {
+struct OverviewPage4View: View {
     
     // MARK: Stored properties
     @State var tapCount = 0
@@ -22,6 +22,6 @@ struct OverviewPage3View: View {
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        OverviewPage3View()
+        OverviewPage4View()
     }
 }
